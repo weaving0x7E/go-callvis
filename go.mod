@@ -1,9 +1,10 @@
 module github.com/weaving0x7E/go-callvis
 
-go 1.22
+go 1.23
 
 require (
 	github.com/goccy/go-graphviz v0.1.2
+	github.com/ofabry/go-callvis v0.7.0
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
 	golang.org/x/tools v0.19.0
 )
