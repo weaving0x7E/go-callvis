@@ -1,4 +1,4 @@
-module github.com/Egor3f/go-callvis
+module github.com/weaving0x7E/go-callvis
 
 go 1.22
 
